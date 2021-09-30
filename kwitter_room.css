@@ -1,0 +1,51 @@
+.body_background{
+    background-color: #55ffc6;
+    text-align:center ;
+}
+
+#logout{
+    float: right;
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+   text-align: center;
+    font-family: cursive;
+    color: white;
+    margin-bottom:25px ;
+    padding-top: 20px;
+}
+
+
+
+h2{
+    font-size: 30px;
+    font-family: cursive;
+    color: white;
+    margin-bottom: 50px;
+
+}
+
+#room_name{
+    width: 500px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+
+.main_div{
+    background-color: teal;
+    text-align: center;
+    width: 80%;
+    height: 80%;
+    margin-top: 70px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom:50px ;
+    
+   
+    
+}
+#button_1{
+    margin-bottom: 50px;
+}
